@@ -1,0 +1,1 @@
+function somaNumeros(o,r){return o+r}var resultado=somaNumeros(5,3);console.log(resultado);
